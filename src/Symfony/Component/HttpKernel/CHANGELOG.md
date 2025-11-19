@@ -1,6 +1,11 @@
 CHANGELOG
 =========
 
+8.1
+---
+
+ * Deprecate the `Extension` class, use the `Extension` class from the DependencyInjection component instead
+
 8.0
 ---
 
